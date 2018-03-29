@@ -1,2 +1,2 @@
 # GTest_CPP
-Google Unit Test Practice
+Google Unit Test Practice and sample
